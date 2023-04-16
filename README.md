@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Alex Perkins
+
+# I currently work as a Senior Network Engineer at Presidio Federal. I help customers modernize their data centers and assist with the transition to cloud.
+
+# Follow my [blog](https://bumpsinthewire.com) to see the kinds of things that I'm up to
 
 <!--
 **bumpsinthewire/bumpsinthewire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
