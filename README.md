@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alex Perkins
 
-I currently work as a Senior Network Engineer at Presidio Federal. I help customers modernize their data centers and assist with the transition to cloud.
+I currently work as a Senior Network Engineer at Presidio Federal. I help customers modernize their data centers and assist with their transition to cloud.
 
 Follow my [blog](https://bumpsinthewire.com) to see the kinds of things that I'm up to
 
