@@ -4,4 +4,6 @@ I currently work as a Senior Network Engineer at [Presidio Federal](https://pres
 
 My interests are currently around making hybrid, multi-cloud networking easy and consumable for any and everyone.
 
-Follow my [blog](https://bumpsinthewire.com) to see the kinds of things that I'm up to
+I am a cohost of the [Cables2Clouds](https://www.cables2clouds.com) podcast.
+
+Follow my [blog](https://bumpsinthewire.com) to see the kinds of things that I'm up to.
