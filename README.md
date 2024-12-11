@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Alex
 
-My interests lie in making hybrid, multi-cloud networking easy and consumable for any and everyone.
+I am interested in all things physics/math/AI/data science
 
-Follow my [blog](https://bumpsinthewire.com) to see the kinds of things that I'm up to.
+Listen to my ramblings on 𝕏 [bumpsinthewire](https://x.com/bumpsinthewire)
