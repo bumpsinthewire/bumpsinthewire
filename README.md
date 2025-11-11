@@ -17,6 +17,6 @@
 
 🌟 Passionate about scalable, resilient systems and automation.
 
-Check out my blog here: https://bumpsinthewire.github.io/
+👨‍💻 Check out my blog here: https://bumpsinthewire.github.io/
 
-Feel free to check out my repos or reach out to connect!
+🤝 Feel free to check out my repos or reach out to connect!
