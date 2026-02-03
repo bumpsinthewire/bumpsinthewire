@@ -1,20 +1,31 @@
-### About Me
+# Alex Perkins | Senior Infrastructure Engineer
 
-👋 Hi, I'm Alex! A Network Engineer with 10+ years of experience, transitioning into Site Reliability Engineering (SRE).
+## Reliability & Automation | 10+ Years Enterprise Networking
 
-🔧 Skills & Tools:
--   ✅ Cloud networking and architecture  
--   ✅ Linux administration
--   ✅ Bash scripting
--   ✅ Docker containerization
--   ✅ Kubernetes administration
--   ✅ Python programming & automation
--   ✅ Infrastructure as code (Terraform and Ansible)  
--   ✅ Git version control
--   ✅ CI/CD pipelines (GitHub/GitLab)  
+👋 Hi, I'm Alex. I specialize in bridging the gap between mission-critical physical networking and modern software-defined reliability. With a decade of experience in enterprise infrastructure, I am currently scaling my expertise into the SRE domain.
 
-🎓 Currently pursuing a Bachelor's in Physics with a minor in Data Science at ASU.
+🔧 Technical Expertise
 
-🌟 Passionate about scalable, resilient systems and automation.
+- Automation: Python, Bash, Git, CI/CD (GitHub/GitLab)
 
-🤝 Feel free to check out my repos or reach out to connect!
+- Infrastructure as Code: Terraform, Ansible
+
+- Systems & Orchestration: Linux (LFCS Track), Docker, Kubernetes
+
+- Cloud Architecture: AWS Networking, Security, and Scalable Design
+
+- Observability: Proactive monitoring, log parsing, and system auditing
+
+📂 Featured Proof of Work
+
+Check my [SRE-study-notes](https://github.com/bumpsinthewire/SRE-study-notes) for production-ready logic, including:
+
+- Exposure Auditor: Automated network security auditing via Python.
+
+- Service Sentinel: Proactive system health monitoring and alerting.
+
+🎓 Academic Focus
+
+B.S. in Physics (Data Science minor) at Arizona State University. I apply mathematical rigor and systemic modeling to complex engineering challenges.
+
+📫 Let's Connect: [Alex Perkins](https://www.linkedin.com/in/alex-perkins/)
