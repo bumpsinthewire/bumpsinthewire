@@ -6,11 +6,11 @@
 
 🔧 Technical Expertise
 
-- Automation: Python, Bash, Git, CI/CD (GitHub/GitLab)
+- Automation: Bash, Python, Go, Git, CI/CD
 
 - Infrastructure as Code: Terraform, Ansible
 
-- Systems & Orchestration: Linux (LFCS Track), Docker, Kubernetes
+- Systems & Orchestration: Linux, Docker, Kubernetes
 
 - Cloud Architecture: AWS Networking, Security, and Scalable Design
 
