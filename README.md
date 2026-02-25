@@ -1,12 +1,12 @@
 # Alex Perkins | Senior Infrastructure Engineer
 
-## Reliability & Automation | 10+ Years Enterprise Networking
+## Reliability & Automation | 15+ Years Enterprise Networking
 
-👋 Hi, I'm Alex. I specialize in bridging the gap between mission-critical physical networking and modern software-defined reliability. With a decade of experience in enterprise infrastructure, I am currently scaling my expertise into the SRE domain.
+👋 Hi, I'm Alex. I specialize in bridging the gap between mission-critical physical networking and modern software-defined reliability. With over a decade of experience in enterprise infrastructure, I am currently scaling my expertise into the SRE domain, with a focus on **eliminating operational toil** through automation.
 
 🔧 Technical Expertise
 
-- Automation: Bash, Python, Go, Git, CI/CD
+- Automation: Bash, Python, Git, CI/CD
 
 - Infrastructure as Code: Terraform, Ansible
 
