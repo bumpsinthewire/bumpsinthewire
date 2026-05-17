@@ -2,7 +2,7 @@
 
 ## Reliability & Automation | 15+ Years Enterprise Infrastructure
 
-👋 Hi, I'm Alex. I specialize in bridging the gap between mission-critical physical networking and modern software-defined reliability. With over a decade of experience in enterprise infrastructure, I am currently scaling my expertise into the SRE domain, with a focus on **eliminating operational toil** through automation.
+👋 Hi, I'm Alex. I design and automate modern software-defined control planes for mission-critical physical and virtual infrastructure. From tactical military deployments to Fortune 150 energy grids, I apply first-principles thinking and SRE patterns to eliminate system entropy and ensure deterministic reliability.
 
 🔧 Technical Expertise
 
