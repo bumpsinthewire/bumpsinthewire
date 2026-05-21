@@ -6,7 +6,7 @@
 
 🔧 Technical Expertise
 
-- Automation: Bash, Python, Git, CI/CD
+- Automation: Bash, Python, Go, Git, CI/CD
 
 - Infrastructure as Code: Terraform, Ansible
 
